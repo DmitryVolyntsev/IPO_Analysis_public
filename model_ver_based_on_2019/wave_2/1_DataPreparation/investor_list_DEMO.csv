@@ -1,0 +1,4 @@
+﻿investor_name,country_code,region,city,investor_uuid,number_of_rounds,homepage_url,linkedin_url,cb_url
+Sequoia Capital,USA,CA,Menlo Park,0c867fde-2b9a-df10-fdb9-66b74f355f91,168,http://www.sequoiacap.com,http://www.linkedin.com/company/sequoia,https://www.crunchbase.com/organization/sequoia-capital
+New Enterprise Associates,USA,CA,Menlo Park,47b84763-9727-7cdf-b194-2742e3963147,224,http://www.nea.com,http://www.linkedin.com/company/new-enterprise-associates,https://www.crunchbase.com/organization/new-enterprise-associates
+Intel Capital,USA,CA,Santa Clara,f3716725-552d-b9b5-59ad-de4ec64b1751,105,http://www.intelcapital.com,http://www.linkedin.com/company/intel-capital,https://www.crunchbase.com/organization/intel-capital

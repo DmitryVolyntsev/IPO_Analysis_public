@@ -1,0 +1,4 @@
+﻿investor_name,country_code,region,city,investor_uuid,number_of_rounds,homepage_url,linkedin_url,cb_url
+Y Combinator,USA,CA,Mountain View,73633ee4-ea65-2967-6c5d-9b5fec7d2d5e,137,http://www.ycombinator.com,https://www.linkedin.com/company-beta/167872,https://www.crunchbase.com/organization/y-combinator
+500 Startups,USA,CA,Mountain View,56e40f50-97c7-2a77-255d-1d97d5f30646,67,http://500.co,http://www.linkedin.com/company/500-startups,https://www.crunchbase.com/organization/500-startups
+Sequoia Capital,USA,CA,Menlo Park,0c867fde-2b9a-df10-fdb9-66b74f355f91,401,http://www.sequoiacap.com,http://www.linkedin.com/company/sequoia,https://www.crunchbase.com/organization/sequoia-capital

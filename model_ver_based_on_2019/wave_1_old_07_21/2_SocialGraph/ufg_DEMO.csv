@@ -1,0 +1,5 @@
+﻿name,degree,degree_class,count,family,top_quantil,is_PHD,is_Master,is_MBA
+Harvard Business School,MBA,A,437,Harvard,1,0.0,0.0,1.0
+Stanford University Graduate School of Business,MBA,A,294,Stanford,1,0.0,0.0,1.0
+The Wharton School,MBA,A,202,UPenn,1,0.0,0.0,1.0
+Stanford University,MS,M,107,Stanford,1,0.0,1.0,0.0
