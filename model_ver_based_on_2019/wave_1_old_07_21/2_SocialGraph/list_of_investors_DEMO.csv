@@ -1,0 +1,4 @@
+﻿,person_uuid,first_name,last_name,org_uuid,company_name,started_on,ended_on,is_current,title,primary_affiliation_organization,job_uuid,linkedin_url
+0,ffdc517c-ca48-4674-9b8b-4635a36b72af,Bobby ,Vedral,30b3efdf-6024-804d-ea55-c4d1a8dfc86c,Goldman Sachs,,,1,Partner ,,d5e6bc0b-d991-4ecb-8036-f2133927bd19,
+1,fee6ccf9-a7fa-86ce-31c8-829e60515601,Eric,Soller,5a79290b-01b0-156d-8a54-214a9706b818,Versant Ventures,2016-08-01,,1,Entrepreneur in Residence,Versant Ventures,cc1b5446-8f34-4bfc-c364-6b079eae6f90,
+2,fec2a847-aff7-491f-adad-c9a03d13c20e,Kamil,Choudhury,30b3efdf-6024-804d-ea55-c4d1a8dfc86c,Goldman Sachs,,,0,Vice President,,418e2e87-0ddc-4281-8092-58835cb39b66,

@@ -1,0 +1,4 @@
+﻿,person_uuid,first_name,last_name,org_uuid,company_name,started_on,ended_on,is_current,title,primary_affiliation_organization,job_uuid
+0,ff66fce4-f0ab-4cbf-9d55-a707e5a73506,Aman ,Kandola,beadb218-e5fa-2686-bc95-4dfaa9acc2e8,Bessemer Venture Partners,,,1,Investor,,77462bed-ed25-4818-b24b-5fa8d5468330
+1,f56d30f2-4411-b6d7-a0b8-f0d5f4938c40,Travis,Murdoch,4ca6cfbe-0eba-2bb5-88a7-d4c00235bd7d,Third Rock Ventures,,,1,Principal,Third Rock Ventures,c67c40be-8334-c6c8-f06a-4c624381d79c
+2,f1fd4d43-ff9f-b0d6-b483-4613d6f0b8ab,Ekta,Dang,f3716725-552d-b9b5-59ad-de4ec64b1751,Intel Capital,,,1,Venture Capitalist,Intel Capital,cd80e7d9-1f5c-8703-82a6-24453d87149f

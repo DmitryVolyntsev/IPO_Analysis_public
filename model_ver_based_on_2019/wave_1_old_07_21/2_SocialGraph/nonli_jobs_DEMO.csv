@@ -1,0 +1,5 @@
+﻿,person_uuid,first_name,last_name,org_uuid,company_name,started_on,ended_on,is_current,title,primary_affiliation_organization,job_uuid
+0,ff54a439-e016-240d-1e50-941af24c7d56,Steve,Raymond,75e76c56-3026-404d-079d-be335a63d9ff,Popcap Games,2010-05-25,,1,Director,Popcap Games,ce9982be-310c-8c4a-75b2-e08532b4633d
+1,fe85c52f-5671-0594-8749-176c2b9a7de7,Karolyn,Baxter,5d82a211-61c0-c63b-a6a7-5649b6f5a5a8,Tilt,,,1,Founder & CTO,Tilt,b9318cf2-17c1-ddbf-3e58-1fb1b1034785
+2,fd83fe62-099e-1496-697a-d532cd8391a0,Stephen,Cumming,ef9427d1-e64d-b6c5-ebf7-233c6c29dc9b,Kenandy,,,1,Chief Financial Officer,Kenandy,248a57e9-e534-cbc8-1b7d-e133dd971148
+3,fcb2d06d-98af-b9fd-02da-474d4dfe848e,Clay,Whitson,438c7e89-ba0c-b8cc-7ea6-1a0ac47ae40d,Edo Interactive,2010-10-27,,0,Chief Financial Officer,,ca249533-4533-9b01-3312-3b80e945b2d4

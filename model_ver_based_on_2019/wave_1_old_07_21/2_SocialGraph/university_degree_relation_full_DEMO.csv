@@ -1,0 +1,6 @@
+﻿id;name;degree;count;degree_class;implied_degree;group
+2706;Harvard Business School;MBA;437;A;;HarvardBS
+6585;Stanford University Graduate School of Business;MBA;294;A;;StanfordGSB
+7641;The Wharton School;MBA;202;A;;Wharton
+6493;Stanford University;MS;107;M;;Stanford
+6399;Stanford University;BS;105;B;;Stanford

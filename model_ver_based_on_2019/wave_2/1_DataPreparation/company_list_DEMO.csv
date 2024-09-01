@@ -1,0 +1,4 @@
+﻿company_name,region,city,company_uuid,number_of_rounds,exit_type,homepage_url,linkedin_url,cb_url
+1010data,New York City,New York,4d243500-064f-cad3-42cc-da711cff9966,2,sold,http://www.1010data.com,http://www.linkedin.com/company/1010data_2,https://www.crunchbase.com/organization/1010data
+1Life Healthcare,SF Bay Area,San Francisco,bc6b1ba7-78e3-f3bd-a42d-be7394d41f90,7,dead,http://www.1life.com,,https://www.crunchbase.com/organization/1life-healthcare
+1stdibs,New York City,New York,f6a755de-ebe8-8d24-407b-a14b5c36f072,4,dead,http://www.1stdibs.com,http://www.linkedin.com/company/1stdibs.com,https://www.crunchbase.com/organization/1stdibs

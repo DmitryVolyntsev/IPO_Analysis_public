@@ -1,0 +1,4 @@
+﻿company_name,region,city,company_uuid,number_of_rounds,exit_type,homepage_url,linkedin_url,cb_url
+1Life Healthcare,SF Bay Area,San Francisco,bc6b1ba7-78e3-f3bd-a42d-be7394d41f90,7,dead,http://www.1life.com,,https://www.crunchbase.com/organization/1life-healthcare
+21.co,SF Bay Area,San Francisco,12e72873-b63e-349f-e24b-21ad5ad87d47,3,dead,https://21.co,https://www.linkedin.com/company/21dotco/,https://www.crunchbase.com/organization/21e6
+2U Inc.,MD - Other,Hyattsville,da9c5e38-35ef-54e8-7ca7-72494f0d9f72,7,ipo,http://2u.com,https://www.linkedin.com/company/2u,https://www.crunchbase.com/organization/2u

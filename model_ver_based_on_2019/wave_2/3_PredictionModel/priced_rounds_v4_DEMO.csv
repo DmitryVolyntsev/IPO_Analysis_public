@@ -1,0 +1,4 @@
+﻿company_name,investment_type,raised_amount_usd,post_money_valuation_usd,announced_on,count_round,count_cap,count_both,is_primary,DateLong,Deflator
+zulily,series_d,85000000.0,1000000000.0,2012-11-15,6,49,2,1,2012-11-15,2.718756955
+x.ai,series_a,9200000.0,49200000.0,2015-01-05,1,1,1,1,2015-01-05,1.657782792
+rewardStyle,series_a,15000000.0,305000000.0,2015-06-30,12,1,1,1,2015-06-30,1.54665151

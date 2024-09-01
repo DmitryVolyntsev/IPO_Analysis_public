@@ -1,0 +1,11 @@
+﻿Organization Name,Org_Code,Round_Code,tag,final,if_same_count
+"&pizza,/organization/pizza-4,/funding_round/pizza-4-seed--5f65c774,""Food and Beverage,Food Processing,Food Delivery,Snack Food"",2,0"
+"&pizza,/organization/pizza-4,/funding_round/pizza-4-undisclosed--d9bc03f1,""Food and Beverage,Food Processing,Food Delivery,Snack Food"",2,0"
+"&pizza,/organization/pizza-4,/funding_round/pizza-4-series-unknown--3bdd84b3,""Food and Beverage,Food Processing,Food Delivery,Snack Food"",2,0"
+"&pizza,/organization/pizza-4,/funding_round/pizza-4-series-unknown--819c151c,""Food and Beverage,Food Processing,Food Delivery,Snack Food"",2,0"
+"&pizza,/organization/pizza-4,/funding_round/pizza-4-convertible-note--7b31885f,""Food and Beverage,Food Processing,Food Delivery,Snack Food"",2,0"
+"(mt) Media Temple,/organization/media-temple,/funding_round/media-temple-series-unknown--6c8602de,""Cloud Management,Web Hosting,Cloud Computing"",1,0"
+"(mt) Media Temple,/organization/media-temple,/funding_round/media-temple-seed--3157e92b,""Cloud Management,Web Hosting,Cloud Computing"",1,0"
+"(mt) Media Temple,/organization/media-temple,-,""Cloud Management,Web Hosting,Cloud Computing"",1,0"
+"0x,/organization/0x-project,/funding_round/0x-project-series-a--d9b1c1fc,""Blockchain,Ethereum,Cryptocurrency"",5,0"
+"0x,/organization/0x-project,/funding_round/0x-project-series-b--c5acc349,""Blockchain,Ethereum,Cryptocurrency"",5,0"
